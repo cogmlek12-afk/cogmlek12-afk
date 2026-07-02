@@ -38,7 +38,7 @@
 ---
 
 ## 🌍 나와 연결하기
-[![Gmail](https://img.shields.io/badge/이메일-보내기-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:메일주소)
+[![Gmail](https://img.shields.io/badge/이메일-보내기-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:cogmlek12@naver.com)
 [![Notion](https://img.shields.io/badge/포트폴리오-Notion-000000?style=flat-square&logo=Notion&logoColor=white)](노션포트폴리오주소)
 
 ---
